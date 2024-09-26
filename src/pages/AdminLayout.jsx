@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Route, Routes } from "react-router-dom";
-import AdminHeader from '../componants/admin/AdminHeader';
+import AdminHeader from '../components/admin/AdminHeader';
 import DashBoard from "./admin/DashBoard";
 const AdminLayout = () => {
   return (

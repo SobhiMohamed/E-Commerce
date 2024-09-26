@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Route, Routes } from "react-router-dom";
-import UserHeader from '../componants/user/UserHeader';
+import UserHeader from '../components/user/UserHeader';
 import Home from "./user/Home";
 import LogIn from "./user/LogIn";
 import SignUp from "./user/SignUp";
